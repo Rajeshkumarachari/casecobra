@@ -1,5 +1,4 @@
 "use client";
-
 import { HTMLAttributes, useEffect, useRef, useState } from "react";
 import MaxWidthWrapper from "./MaxWidthWrapper";
 import { useInView } from "framer-motion";
